@@ -168,14 +168,6 @@
                     android:onClick="debugConsola"
                     android:text="@string/mostrar_datos_por_consola" />
 
-                <Button
-                    android:id="@+id/modoButton"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
-                    android:onClick="cambiarModo"
-                    android:text="@string/cambiar_modo" />
-
             </LinearLayout>
         </LinearLayout>
 
